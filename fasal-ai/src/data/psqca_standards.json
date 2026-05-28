@@ -1,0 +1,26 @@
+{
+  "wheat": {
+    "grades": {
+      "Grade 1": "Moisture < 10%, Foreign matter < 1%, Broken grains < 2%",
+      "Grade 2": "Moisture < 12%, Foreign matter < 2%, Broken grains < 4%"
+    },
+    "packaging": {
+      "material": "Jute bags or woven PP bags",
+      "weight_marking": "Must be exactly 50kg or 100kg"
+    },
+    "phytosanitary": "Required for all international destinations"
+  },
+  "mango": {
+    "grades": {
+      "Export Quality": "Uniform size, zero sap burn, zero fruit fly marks, firmness > 8 lbs",
+      "Standard": "Slight size variance allowed, no active pest damage"
+    },
+    "packaging": {
+      "material": "Corrugated fiberboard boxes with ventilation",
+      "weight_marking": "Net weight usually 2kg, 3kg, or 5kg depending on market",
+      "cold_chain_temp_celsius": 12,
+      "treatment": "Hot Water Treatment (HWT) required for EU, UAE, Iran"
+    },
+    "phytosanitary": "Required with HWT certification"
+  }
+}

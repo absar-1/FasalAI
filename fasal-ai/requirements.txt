@@ -1,0 +1,8 @@
+crewai
+openai
+python-dotenv
+streamlit
+requests
+pillow
+chromadb
+langchain

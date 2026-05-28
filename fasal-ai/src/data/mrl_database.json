@@ -1,0 +1,30 @@
+{
+  "wheat": {
+    "UAE": {
+      "Chlorpyrifos": {"mrl_mg_kg": 0.05, "status": "strictly regulated"},
+      "Imidacloprid": {"mrl_mg_kg": 0.5, "status": "allowed"}
+    },
+    "EU": {
+      "Chlorpyrifos": {"mrl_mg_kg": 0.01, "status": "banned"},
+      "Imidacloprid": {"mrl_mg_kg": 0.05, "status": "strictly regulated"}
+    }
+  },
+  "mango": {
+    "UAE": {
+      "Lambda-cyhalothrin": {"mrl_mg_kg": 0.2, "status": "allowed"},
+      "Carbendazim": {"mrl_mg_kg": 0.1, "status": "strictly regulated"}
+    },
+    "EU": {
+      "Carbendazim": {"mrl_mg_kg": 0.01, "status": "banned"},
+      "Lambda-cyhalothrin": {"mrl_mg_kg": 0.05, "status": "regulated"}
+    },
+    "UK": {
+      "Carbendazim": {"mrl_mg_kg": 0.01, "status": "banned"}
+    }
+  },
+  "cotton": {
+    "China": {
+      "Cypermethrin": {"mrl_mg_kg": 0.5, "status": "allowed"}
+    }
+  }
+}
